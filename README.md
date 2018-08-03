@@ -5,11 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version 2.5.1 rails 5
+
+* Ruby version 2.5.1 rails 5.2.0
 
 * System dependencies
 
-* Configuration
+* Configuration : bundle install , rails s
 
 * Database creation
 
